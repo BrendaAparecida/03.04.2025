@@ -10,6 +10,15 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendaAparecida/03.04.2025.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrendaAparecida/03.04.2025/issues"
+  },
+  "homepage": "https://github.com/BrendaAparecida/03.04.2025#readme"
 }
